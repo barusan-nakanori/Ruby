@@ -1,0 +1,2 @@
+name = "NORIO"
+puts name
